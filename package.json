@@ -1,0 +1,20 @@
+{
+    "name": "twitter-token-grabber",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Sebastian Alsina <alsinas@me.com>",
+    "license": "MIT",
+    "scripts": {
+        "dev": "next"
+    },
+    "dependencies": {
+        "autoprefixer": "^10.2.4",
+        "axios": "^0.21.1",
+        "next": "^10.0.6",
+        "postcss": "^8.2.6",
+        "react": "^17.0.1",
+        "react-dom": "^17.0.1",
+        "swr": "^0.4.2",
+        "tailwindcss": "^2.0.3"
+    }
+}
